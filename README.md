@@ -1,3 +1,4 @@
 # README
 
 ## APARTADO 1
+## APARTADO 2
